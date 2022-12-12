@@ -1,2 +1,0 @@
-# Frogs
-The game frogs
